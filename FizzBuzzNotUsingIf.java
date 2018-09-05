@@ -1,4 +1,4 @@
-
+// これはひどい
 public class FizzBuzzNotUsingIf {
 	public static void main(String[] args) {
 
