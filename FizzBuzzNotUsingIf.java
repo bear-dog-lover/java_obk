@@ -1,4 +1,5 @@
 // これはひどい
+// 1000000回読もう→https://bufferings.hatenablog.com/entry/2018/09/05/003410
 public class FizzBuzzNotUsingIf {
 	public static void main(String[] args) {
 
